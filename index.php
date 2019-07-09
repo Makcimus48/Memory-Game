@@ -1,1 +1,1 @@
-<?php include_onse("memoryGame.html") ?>
+<?php header('Location : memoryGame.html') ; ?>
